@@ -2,3 +2,4 @@ redmi
 oppo
 vivo
 iqoo
+apple
