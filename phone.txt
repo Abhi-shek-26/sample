@@ -3,3 +3,4 @@ oppo
 vivo
 iqoo
 apple
+nokia
